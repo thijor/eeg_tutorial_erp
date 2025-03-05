@@ -46,4 +46,4 @@ This tutorial will go through several steps along an ERP decoding pipeline, incl
 6. Classification in the spatio-temporal domain
 7. Permutation testing
 
-The decoding is performed using a block-Toeplitz LDA, developed by (Sosulski and Tangermann 2022)[https://iopscience.iop.org/article/10.1088/1741-2552/ac9c98/meta].
+The decoding is performed using a block-Toeplitz LDA, developed by [Sosulski and Tangermann 2022](https://iopscience.iop.org/article/10.1088/1741-2552/ac9c98/meta).
