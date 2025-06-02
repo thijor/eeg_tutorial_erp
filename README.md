@@ -1,6 +1,6 @@
-# EEG tutorial ERP
+# EEG tutorial
 
-This repository contains an EEG tutorial on ERP decoding.
+This repository contains a tutorial on ERP decoding and EEG-BIDS.
 
 ## Setup
 
@@ -35,9 +35,9 @@ This tutorial uses an open-access auditory oddball dataset, which can be downloa
 This dataset contains multiple small trials of an auditory oddball paradigm. The paradigm presented two different sinusoidal tones. A low-pitched (500 Hz, 40 ms duration) non-target tone and a high-pitched (1000 Hz, 40 ms duration) target tone. Subjects were instructed to attend to the high-pitched target tones and ignore the low-pitched tones.
 `
 
-## Tutorial
+## Tutorial ERP
 
-This tutorial will go through several steps along an ERP decoding pipeline, including:
+This tutorial, eeg_tutorial_erp.ipynb, will go through several steps along an ERP decoding pipeline, including:
 1. Downloading and setting up EEG data
 2. Loading and preprocessing ERP data
 3. Basic ERP plots
@@ -47,3 +47,11 @@ This tutorial will go through several steps along an ERP decoding pipeline, incl
 7. Permutation testing
 
 The decoding is performed using a block-Toeplitz LDA, developed by [Sosulski and Tangermann 2022](https://iopscience.iop.org/article/10.1088/1741-2552/ac9c98/meta).
+
+## Tutorial BIDS
+
+This tutorial, eeg_tutorial_bids.ipynb, will go through several steps to make a datasets BIDS compliant, including:
+1. Downloading and setting up EEG data
+2. Making the dataset BIDS compliant and anonymized.
+
+The BIDS pipeline makes use of [MNE-BIDS](https://mne.tools/mne-bids/stable/index.html).
