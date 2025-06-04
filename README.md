@@ -36,7 +36,7 @@ This tutorial uses an open-access auditory oddball dataset, which can be downloa
 
 ## Tutorial ERP
 
-This tutorial, eeg_tutorial_erp.ipynb, will go through several steps along an ERP decoding pipeline, including:
+This tutorial, `eeg_tutorial_erp.ipynb`, will go through several steps along an ERP decoding pipeline, including:
 1. Downloading and setting up EEG data
 2. Loading and preprocessing ERP data
 3. Basic ERP plots
@@ -49,7 +49,7 @@ The decoding is performed using a block-Toeplitz LDA, developed by [Sosulski and
 
 ## Tutorial BIDS
 
-This tutorial, eeg_tutorial_bids.ipynb, will go through several steps to make a datasets BIDS compliant, including:
+This tutorial, `eeg_tutorial_bids.ipynb`, will go through several steps to make a datasets BIDS compliant, including:
 1. Downloading and setting up EEG data
 2. Making the dataset BIDS compliant and anonymized.
 
