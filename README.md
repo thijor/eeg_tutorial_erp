@@ -31,9 +31,8 @@ jupyter notebook
 ## Dataset
 
 This tutorial uses an open-access auditory oddball dataset, which can be downloaded from [Zenodo](https://zenodo.org/records/4066633). It is a curated subset of [Freiburg dataset](https://freidok.uni-freiburg.de/data/154576). Quoted from the full dataset description: 
-`
-This dataset contains multiple small trials of an auditory oddball paradigm. The paradigm presented two different sinusoidal tones. A low-pitched (500 Hz, 40 ms duration) non-target tone and a high-pitched (1000 Hz, 40 ms duration) target tone. Subjects were instructed to attend to the high-pitched target tones and ignore the low-pitched tones.
-`
+
+> This dataset contains multiple small trials of an auditory oddball paradigm. The paradigm presented two different sinusoidal tones. A low-pitched (500 Hz, 40 ms duration) non-target tone and a high-pitched (1000 Hz, 40 ms duration) target tone. Subjects were instructed to attend to the high-pitched target tones and ignore the low-pitched tones.
 
 ## Tutorial ERP
 
